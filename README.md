@@ -27,10 +27,3 @@ $ npm install
 ```
 $ pm2 start config.yml
 ```
-
-### How to access
-
-```
-your_ipAddress:8000
-```
-
